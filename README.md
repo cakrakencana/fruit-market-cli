@@ -17,6 +17,8 @@ This is a simple command-line Python program that simulates a fruit market. User
   - Conditional statements
   - User input and validation
 
+---
+
 ## 🎯 Learning Outcomes
 
 Through building this project, I practiced:
@@ -25,6 +27,8 @@ Through building this project, I practiced:
 - Using Python dictionaries to store structured data
 - Managing program flow with loops and conditions
 - Implementing input validation and basic calculations
+
+---
 
 ## 🔗 Connect with Me
 
